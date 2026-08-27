@@ -1,4 +1,4 @@
-# 🖤 Noir Tattoo — Landing Page
+# 🖋️ Noir Tattoo — Landing Page
 
 > 🇧🇷 Site autoral para o estúdio de tatuagem contemporâneo Noir Tattoo, com composição editorial, tipografia forte e galeria de portfólio pensada para receber fotografias reais dos trabalhos.
 
@@ -12,7 +12,7 @@
 
 ## 🚀 Acessar DEMO
 
-**[🔗 Acessar a demonstração da Noir Tattoo](https://noirtattoo.vercel.app/)**
+**[🔗 Acessar a demonstração da Noir Tattoo](https://noirtattoolp.vercel.app/)**
 
 ---
 
